@@ -4,11 +4,13 @@
 --[[        Discord : Pezhman#2494                    ]]--
 --[[        If Any Problem Dm Me                      ]]--
 --[[    ============================================  ]]--  
+
+
 Place esx_garage and esx_realparking in resources, then add to your server.cfg:
 start esx_garage
 start esx_realparking
 
-Remember First Start sx_garage
+Remember First Start esx_garage
 
 
 
