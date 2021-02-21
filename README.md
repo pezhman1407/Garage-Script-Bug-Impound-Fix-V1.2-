@@ -15,3 +15,5 @@ Remember First Start esx_garage
 
 
 Garage Script With a new style And fixing reported problems I hope you like it ;)
+
+;)اگر نیاز به اسکریپت خاصی داشتین توی دیسکورد بهم اطلاع بدین
